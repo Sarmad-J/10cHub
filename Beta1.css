@@ -1,0 +1,46 @@
+body
+{
+    text-align: center;
+    background-color: aqua;
+}
+
+#Heading
+{
+    font-size: 60px;
+    text-decoration: underline;
+}
+
+#HeadingDay
+{
+    font-size: 40px;
+    text-decoration: wavy;
+}
+
+#HubLogo
+{
+    width: 310px;
+    height: 310px;
+}
+
+table
+{
+    border-collapse: collapse;
+    width: 80%;
+    margin: auto;
+}
+
+td, th {
+    border: 2px solid #000000;
+    text-align: left;
+    padding: 8px;
+    font-size: 30px;
+}
+
+th 
+{
+    background-color: aliceblue;
+}
+td 
+{
+    background-color: cadetblue;
+}
