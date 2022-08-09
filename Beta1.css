@@ -18,14 +18,14 @@ body
 
 #HubLogo
 {
-    width: 20%;
-    height: 20%;
+    width: 310px;
+    height: 310px;
 }
 
 table
 {
     border-collapse: collapse;
-    width: 50%;
+    width: 75%;
     margin: auto;
     border: 5px solid #000;
     border-radius: 100px;
