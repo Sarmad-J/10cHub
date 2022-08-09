@@ -1,7 +1,7 @@
 body
 {
     text-align: center;
-    background-color: aqua;
+    background-color: skyblue;
 }
 
 #Heading
@@ -27,10 +27,11 @@ table
     border-collapse: collapse;
     width: 80%;
     margin: auto;
+    border: 5px solid #000;
+    border-radius: 100px;
 }
 
 td, th {
-    border: 2px solid #000000;
     text-align: left;
     padding: 8px;
     font-size: 30px;
@@ -39,8 +40,20 @@ td, th {
 th 
 {
     background-color: aliceblue;
+    border-bottom: 3px solid #000;
 }
 td 
 {
     background-color: cadetblue;
+    
+    border-bottom: 3px solid #000;
+    border-bottom-style: dashed;
+}
+
+hr
+{
+    width: 20%;
+    height: 5px;
+    background-color: aliceblue;
+    border-width: 5px;
 }
